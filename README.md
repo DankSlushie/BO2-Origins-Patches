@@ -8,4 +8,4 @@ Patches go in the data/scripts folder of your Redacted
 
 Decompiled scripts go in the data/maps/mp folder of your Redacted
 
-If you have any questions, DM me on discord: Dank Slushie#9682
+If you have any questions, message me on Discord: Dank Slushie#9682
