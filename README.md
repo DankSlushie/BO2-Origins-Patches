@@ -26,7 +26,7 @@ Q - Do the patches work on multiplayer?
 A - Probably not, they were made to be used in solo speedruns.
 
 Q - How to start an Origins game without the cutscene?  
-A - Paste this code into the Redacted console (courtesy of Yoma's Twitch command): 
+A - Paste this code into the Redacted console (courtesy of Yoma's Twitch command):  
 g_gametype zclassic;ui_zm_gamemodegroup zclassic;ui_zm_mapstartlocation tomb;map zm_tomb
 
 Q - HUD isn't working and it says TranZit on the scoreboard?  
