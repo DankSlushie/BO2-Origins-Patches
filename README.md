@@ -14,6 +14,38 @@ zm_tomb, zm_tomb_dig, and zm_tomb_classic go in the data/maps/mp folder of your 
 
 Textures go in the data/images folder of your Redacted if you want them (don't rename)
 
+## Details
+
+These patches manipulate RNG for the solo easter egg speedrun. The speedrun strategy changes often, so the patches may not always be optimized for the current route. Heres a list of what each file does:
+
+### OriginsPatch
+* Zombie counter
+* FOV
+* Full backwards movement speed and strafe speed
+* Wunderfizz location
+* Wunderfizz perk order
+* Box location
+* Box weapons
+* Weather rounds
+* Optimal ice parts (works in combination with zm_tomb_dig)
+
+### zm_tomb
+* Robot cycles and feet
+* Templar rounds and generators
+* Optimal dials for step 3 of each staff upgrade
+
+### zm_tomb_dig
+* Dig spot spawn locations
+* Zombie blood from first dig every round
+* Optimal ice parts (works in combination with OriginsPatch)
+
+### zm_tomb_classic
+* Every part spawn location
+
+### \_zm_powerups
+* Drop cycles
+* 4 drops at the start of every round
+
 ## FAQ 
 
 Q - Where is the data/maps/mp folder?  
