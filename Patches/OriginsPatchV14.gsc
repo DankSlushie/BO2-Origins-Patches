@@ -45,7 +45,7 @@ onPlayerConnect() {
 
 		wait 3;
 
-        	setdvar("cg_fov", 100);
+        	// setdvar("cg_fov", 100);
 	}
 }
 
